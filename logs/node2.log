@@ -1,0 +1,1 @@
+go run ./cmd/node --peers peers.node2.json --request
